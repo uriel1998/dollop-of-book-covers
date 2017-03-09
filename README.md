@@ -18,7 +18,7 @@ Output filenames are in the format of
 
 #Dependencies
 
-Requires (ImageMagick)[https://www.imagemagick.org/script/index.php] to resize images.
+Requires [ImageMagick](https://www.imagemagick.org/script/index.php) to resize images.
 
 
 #Example of Use
